@@ -1,0 +1,64 @@
+{
+  "token": "Your Bot Token",
+  "prefix": "Your Bot Prefix",
+  "clientID": "a568b55af1d940aca52ea8fe02f0d93b",
+  "clientSecret": "e8199f4024fe49c5b22ea9a3dd0c4789",
+  "nodes": [
+    {
+      "name": "Zyinxx Cloud",
+      "host": "128.199.191.11",
+      "port": 5352,
+      "password": "youshallnotpass",
+      "secure": false
+    },
+    {
+      "name": "Jirayu",
+      "host": "lavalink.jirayu.net",
+      "port": 13591,
+      "password": "youshallnotpass",
+      "secure": false
+    },
+    {
+      "name": "AJI Lava v3 Node (HTTP)",
+      "host": "lava-v3.ajieblogs.eu.org",
+      "port": 80,
+      "password": "https://dsc.gg/ajidevserver",
+      "secure": false
+    },
+    {
+      "name": "AJI Lava v3 Node (HTTPS)",
+      "host": "lava-v3.ajieblogs.eu.org",
+      "port": 443,
+      "password": "https://dsc.gg/ajidevserver",
+      "secure": false
+    },
+    {
+      "name": "AJI Lava All Node (HTTP)",
+      "host": "lava-all.ajieblogs.eu.org",
+      "port": 80,
+      "password": "https://dsc.gg/ajidevserver",
+      "secure": false
+    },
+    {
+      "name": "Serenetia Lavalink Node (HTTP)",
+      "host": "lavalink.serenetia.com",
+      "port": 80,
+      "password": "https://dsc.gg/ajidevserver",
+      "secure": false
+    },
+    {
+      "name": "AJI Lava All Node (HTTPS)",
+      "host": "lava-all.ajieblogs.eu.org",
+      "port": 443,
+      "password": "https://dsc.gg/ajidevserver",
+      "secure": true
+    },
+    {
+      "name": "Serenetia Lavalink Node (HTTPS)",
+      "host": "lavalinkv3-id.serenetia.com",
+      "port": 443,
+      "password": "https://dsc.gg/ajidevserver",
+      "secure": true
+    }
+  ]
+}
